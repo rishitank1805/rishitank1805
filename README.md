@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at ison GmbH as a backend developer.<br>My expertise are software development, Data Architecture & Pipelining.<br>My core skills are Go, Python, SQL, C/C++ and JavaScript.<br>I'm currently learning how to build faster and reliable quantitative trading models.<br>   
+I'm currently working at ison GmbH as a backend developer.<br>My expertise are software development, Data Engineering & Pipelining.<br> I love debugging and writing clean code<br>My core skills are Python, GO, SQL, C/C++<br>I'm currently learning how to build faster and reliable quantitative trading models.<br>My core Interests are DevOps, MLOps and AI  
 
 
 # 💻 Tech Stack:
